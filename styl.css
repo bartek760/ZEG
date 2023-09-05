@@ -1,0 +1,38 @@
+.k1, .k2, .k3, .k4, .k5, .k6{
+    text-align: center;
+    margin: 20px;
+    margin: 0 auto;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+
+.k1{
+    background-color: aqua;
+}
+.k2{
+    background-color: gainsboro;
+    
+}
+.k3{
+    background-color: green;
+    
+}
+.k4{
+    background-color: red;
+    
+}
+.k5{
+    background-color: orange;
+  
+}
+.k6{
+    background-color: blue;
+    
+}
+#pilki{
+    display: flex;
+    align-items: center;
+    
+}
